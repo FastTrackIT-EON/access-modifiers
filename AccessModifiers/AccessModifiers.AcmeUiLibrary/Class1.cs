@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AccessModifiers.UiLibrary.Windows
+namespace AccessModifiers.AcmeUiLibrary
 {
     public class Class1
     {

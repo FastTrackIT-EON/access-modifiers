@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers.App", "Acce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers.UiLibrary.Windows", "AccessModifiers.UiLibrary.Windows\AccessModifiers.UiLibrary.Windows.csproj", "{5FDC3634-12C0-4BA0-BD14-9A8BF12DAD3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers.AcmeUiLibrary", "AccessModifiers.AcmeUiLibrary\AccessModifiers.AcmeUiLibrary.csproj", "{DF1F95E6-8E5F-4B16-8C15-B5AE4C35DE36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5FDC3634-12C0-4BA0-BD14-9A8BF12DAD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FDC3634-12C0-4BA0-BD14-9A8BF12DAD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FDC3634-12C0-4BA0-BD14-9A8BF12DAD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1F95E6-8E5F-4B16-8C15-B5AE4C35DE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1F95E6-8E5F-4B16-8C15-B5AE4C35DE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1F95E6-8E5F-4B16-8C15-B5AE4C35DE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1F95E6-8E5F-4B16-8C15-B5AE4C35DE36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

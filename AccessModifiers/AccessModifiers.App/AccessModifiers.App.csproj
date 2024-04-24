@@ -49,5 +49,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccessModifiers.AcmeUiLibrary\AccessModifiers.AcmeUiLibrary.csproj">
+      <Project>{df1f95e6-8e5f-4b16-8c15-b5ae4c35de36}</Project>
+      <Name>AccessModifiers.AcmeUiLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccessModifiers.UiLibrary.Windows\AccessModifiers.UiLibrary.Windows.csproj">
+      <Project>{5fdc3634-12c0-4ba0-bd14-9a8bf12dad3d}</Project>
+      <Name>AccessModifiers.UiLibrary.Windows</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
